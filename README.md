@@ -1,5 +1,4 @@
 # Diwali-Sales-Project
-<h4>Project Description: Diwali Sales Data Analysis</h4>
 This project focuses on analyzing Diwali sales data to enhance customer experience and boost sales performance.<br>
 The key objectives and methodologies include:<br>
 
